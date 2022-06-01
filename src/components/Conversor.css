@@ -1,0 +1,6 @@
+.conversor{
+    padding: 20px;
+    display: flow-root;
+    max-width: 300px;
+    box-shadow: 0 4px 8px 0 rgb(80, 1, 38);
+}
